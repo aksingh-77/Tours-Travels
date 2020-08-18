@@ -4,9 +4,9 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Tours and Travels</title>
+    <title>Travel Keeda</title>
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/icon" href="assets/images/favicon.ico"/>
+    <link rel="shortcut icon" type="image/icon" href="assets/images/index.jpg"/>
     <!-- Font Awesome -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
      <!-- Bootstrap CSS -->
@@ -45,7 +45,7 @@
 					<!-- Start center Logo -->
 					<div class="mu-logo-area">
 						<!-- text based logo -->
-						<a class="mu-logo" href="index.html"><span>Aksingh</span></a>
+						<a class="mu-logo" href="index.html"><span>Travel Keeda</span></a>
 						<!-- Image based logo -->
 						<!-- <a class="mu-logo" href="index.html"><img src="assets/images/logo.jpg" alt="logo img"></a> -->
 					</div>
@@ -54,7 +54,7 @@
 						<ul>
 							<li>
 								<i class="fa fa-envelope-o" aria-hidden="true"></i>
-								<span>mail@domain.com</span>
+								<span>contact@travelkeeda.com</span>
 							</li>
 							<li>
 								<div class="mu-telephone">
@@ -70,9 +70,9 @@
 				<!-- Start hero featured area -->
 				<div class="mu-hero-featured-area">
 					<div class="mu-hero-featured-content">
-						<h2>Welcome To The Our Travel Agency </h2>
+						<h2>Welcome To Our Travel Agency </h2>
 						<h1>WE PROVIDE ONLY THE BEST TOURS</h1>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque ut omnis beatae quam quibusdam facere expedita explicabo eaque non sit. Amet vitae exercitationem ad rerum consequuntur numquam magni nemo dolorem, itaque eius perferendis praesentium consequatur. Dolores, nihil, molestiae sunt tenetur aut similique nostrum deleniti amet minima. Esse magnam inventore, ea.</p>
+						<p>We at Travel Keeda, know that there is nothing better than the experiences and memories you are able to create when you travel to new places with our holiday packages. With travel Keeda’s packages you can head out and indulge in the exploration of an unknown destination or revisit your favourite spots in places that hold a lot of memories, you can meet new people from various walks of life, and mark another spot on the map that you have covered. <br><q>There is nothing better than travel<span>&#128522;</span></q></p>
 
 						<a href="#" class="mu-book-now-btn">Book Now!</a>
 						
@@ -101,15 +101,15 @@
 							<div class="row">
 								<div class="col-md-6">
 									<div class="mu-about-left">
-										<img class="" src="assets/images/about-us-img.jpeg" alt="img">
+										<img class="" src="assets/images/index.jpg" alt="img">
 									</div>
 								</div>
 								<div class="col-md-6">
 									<div class="mu-about-right">
 										<h2>About Our Agency</h2>
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam aliquam distinctio magni enim error commodi suscipit nobis alias nulla, itaque ex, vitae repellat amet neque est voluptatem iure maxime eius!</p>
+										<p>Making a niche for ourselves as a top online travel company in India, Aksingh World excels in offering the best in domestic tour packages. Behind our repute of being the best travel company in India is the vision to provide exclusivity in India.</p>
 
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus in accusamus qui sequi nisi, sint magni, ipsam, porro nesciunt id veritatis quaerat ipsum consequatur laborum, provident veniam quibusdam placeat quam?</p>
+										<p>We offer a wide array of more than 2500 dream vacation options as well as a guest base of more than 2.5 lakh satisfied guests in a period of 4 years, which has played a major role in us becoming one of the top travel companies in all over India.</p>
 									</div>
 								</div>
 							</div>
@@ -137,7 +137,7 @@
 												<i class="fa fa-bed" aria-hidden="true"></i>
 											</div>
 											<h3>Luxurious Hotels</h3>
-											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae eum corporis commodi, ipsum sequi quae nemo quasi voluptatibus quaerat nulla! Doloribus cumque ipsum, tempore veritatis quibusdam quae numquam minus iste!</p>
+											<p>We at Travel Keeda  take care of your comfort at your dream destination. We make our best to give you the best living experence so that you had memories with us.</p>
 										</div>
 									</div>
 									<div class="col-md-4">
@@ -146,7 +146,7 @@
 												<i class="fa fa-thumbs-up" aria-hidden="true"></i>
 											</div>
 											<h3>The Best Service</h3>
-											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae eum corporis commodi, ipsum sequi quae nemo quasi voluptatibus quaerat nulla! Doloribus cumque ipsum, tempore veritatis quibusdam quae numquam minus iste!</p>
+											<p>We at Travel Keeda  take care of your comfort at your dream destination. We make our best to give you the best living experence so that you had memories with us.</p>
 										</div>
 									</div>
 									<div class="col-md-4">
@@ -155,7 +155,7 @@
 												<i class="fa fa-plane" aria-hidden="true"></i>
 											</div>
 											<h3>Unique Experience</h3>
-											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae eum corporis commodi, ipsum sequi quae nemo quasi voluptatibus quaerat nulla! Doloribus cumque ipsum, tempore veritatis quibusdam quae numquam minus iste!</p>
+											<p>We at Travel Keeda  take care of your comfort at your dream destination. We make our best to give you the best living experence so that you had memories with us.</p>
 										</div>
 									</div>
 								</div>
@@ -411,8 +411,22 @@
 												<div class="row">
 													<div class="col-md-6">
 														<div class="form-group">                
-															<input type="text" class="form-control" placeholder="Name" id="name" name="name" required>
+															<input type="text" class="form-control" placeholder="First Name" id="name" name="firstname">
 														</div>
+													</div>
+
+													<div class="col-md-6">
+														<div class="form-group">                
+															<input type="text" class="form-control" placeholder="Last Name" id="name" name="lastname">
+														</div>
+													</div>
+												</div>
+
+												<div class="row">
+													<div class="col-md-6">
+														<div class="form-group">                
+															<input type="text" class="form-control" placeholder="Phone Number" id="phone" name="phone">
+														</div>    
 													</div>
 
 													<div class="col-md-6">
